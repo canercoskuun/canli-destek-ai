@@ -1,5 +1,6 @@
 .env
-.venvchroma_db/
+.venv
+
+chroma_db/
 *.sqlite3
-.venv/
-__pycache__/
+
